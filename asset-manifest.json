@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sainadh1205/Socail_App_React/static/css/main.35b3f5f5.css",
+    "main.js": "/Sainadh1205/Socail_App_React/static/js/main.8933ffee.js",
+    "static/media/SocialApp.jpg": "/Sainadh1205/Socail_App_React/static/media/SocialApp.7aec3636bf48967629fd.jpg",
+    "index.html": "/Sainadh1205/Socail_App_React/index.html",
+    "main.35b3f5f5.css.map": "/Sainadh1205/Socail_App_React/static/css/main.35b3f5f5.css.map",
+    "main.8933ffee.js.map": "/Sainadh1205/Socail_App_React/static/js/main.8933ffee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b3f5f5.css",
+    "static/js/main.8933ffee.js"
+  ]
+}

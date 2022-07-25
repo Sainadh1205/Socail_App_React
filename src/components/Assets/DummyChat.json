@@ -1,0 +1,26 @@
+{
+    "1": {
+        "message" : "Hey, How are you doing?",
+        "messageCount": 1
+    },
+    "2": {
+        "message" : "You're coming today?",
+        "messageCount": 1
+    },
+    "3": {
+        "message" : "What about next post?😊",
+        "messageCount": 1
+    },
+    "4":{
+        "message" : "Congratulations!🥳",
+        "messageCount": 1
+    },
+    "5":{
+        "message" : "This is a very beautiful picture",
+        "messageCount": 1
+    },
+    "6":{
+       "message" : "Let's catchup!",
+       "messageCount": 1 
+    } 
+}
